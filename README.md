@@ -5,7 +5,7 @@
 \
 [`out`](out) folder is created using:
 
-```
+```sh
 next build && next export
 ```
 
